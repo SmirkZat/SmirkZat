@@ -31,7 +31,7 @@ smirkzat@gmail.com
       <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/SmirkZat/2602192014-Space-Invanders">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link2-->
     </tr>
     <tr>
@@ -62,8 +62,7 @@ smirkzat@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Shevia Fire is a safety training application utilizing Virtual Reality platforms like Meta Quest 3. It features modules on using fire blankets, as well as handling indoor and outdoor fire scenarios. The application was developed in under two months. As the Project Lead, I was responsible for task delegation, timeline management, and product design.</td> <!--desc-->
-      <td valign="text-top">Shevia Augmented Reality is a Safety Induction application using Augmented Reality, featuring a 3D viewer with visual and audio explanations. As a Unity Programmer, I developed the main mechanics of the application in under five days. This application was used within the Pertamina Group during a safety event.</td> <!--desc-->
+      <td valign="text-top">...</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://www.shevia.id/Product/SheviaFire">Read More</a></td> <!--link 3-->
