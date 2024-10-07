@@ -27,11 +27,7 @@ smirkzat@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Here's a simple and engaging preview text for your GitHub profile showcasing your game **Space Invanders**:
-
----
-
-🌌 Space Invanders 🚀
+      <td valign="text-top">
 **Welcome to Space Invanders** — a thrilling arcade-style space shooter! Defend the galaxy against waves of enemy invaders, test your reflexes, and earn high scores. 
 
 
