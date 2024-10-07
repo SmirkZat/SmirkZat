@@ -32,7 +32,7 @@ smirkzat@gmail.com
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/SmirkZat/2602192014-Space-Invanders">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/SmirkZat/2602192014-Space-Invanders">Read More</a></td> <!--link2-->
     </tr>
     <tr>
       <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td> <!--link1-->
