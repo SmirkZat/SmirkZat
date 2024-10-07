@@ -28,7 +28,7 @@ smirkzat@gmail.com
     </tr>
     <tr>
       <td valign="text-top">
-**Welcome to Space Invanders** — a thrilling arcade-style space shooter! Defend the galaxy against waves of enemy invaders, test your reflexes, and earn high scores. 
+# Welcome to Space Invanders — a thrilling arcade-style space shooter! Defend the galaxy against waves of enemy invaders, test your reflexes, and earn high scores. 
 
 
 Get ready for an action-packed adventure in the depths of space. Check out the repo and blast some invaders! 💥
