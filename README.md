@@ -54,7 +54,7 @@ Get ready for an action-packed adventure in the depths of space. Check out the r
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a></a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>Flippy</a></th> <!--tittle 3-->
       <th width="50%" align="center"><a></a></th> <!--tittle 4-->
     </tr>
   </thead>
