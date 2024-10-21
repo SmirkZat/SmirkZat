@@ -23,7 +23,7 @@ smirkzat@gmail.com
         <img src="https://github.com/SmirkZat/2602192014-Space-Invanders/blob/main/Content/SpaceInvaders1.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="" alt="https://github.com/SmirkZat/2602192014-Declension-Inferno/blob/main/Content/Declension.gif.gif" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/SmirkZat/2602192014-Declension-Inferno/blob/main/Content/Declension.gif.gif" alt="1" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
