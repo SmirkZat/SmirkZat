@@ -34,7 +34,7 @@ smirkzat@gmail.com
 Get ready for an action-packed adventure in the depths of space. Check out the repo and blast some invaders! 💥
 
 </td> <!--desc-->
-      <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
+      <td valign="text-top">Declension Inferno is a top-down shooter that blends the fast-paced action of classic arcade shooters with the unique art style of dark, surreal environments. This game serves as a teaching tool to introduce fundamental game programming concepts using Unity. The core mechanics, including player movement, shooting, and enemy behavior, can be developed in under a day, making it an accessible project for beginners eager to learn game development.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/SmirkZat/2602192014-Space-Invanders">Read More</a></td> <!--link1-->
