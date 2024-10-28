@@ -1,7 +1,7 @@
 Hi, I'm Lala 👋
 ---
 **📌About** <br>
-Hi, I'm Nadila Desmita, also known as SmirkZat. I specialize in XR development, visual design, research, and teaching. I've created various educational apps for institutions and state-owned enterprises, highlighting my skills in XR and visual design.
+Hi, I'm Nadila Desmita, also known as SmirkZat. I specialize in Game Programming. I've created various Games apps for institutions and state-owned enterprises, highlighting my skills in Game Programming and Art.
 
 I'm passionate about immersive technology, especially XR applications. I develop training and simulation apps for health and safety, educational applications, and engaging immersive marketing content.
 
