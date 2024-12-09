@@ -55,7 +55,7 @@ Get ready for an action-packed adventure in the depths of space. Check out the r
   <thead>
     <tr>
       <th width="50%" align="center"><a>Flippy</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a></a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a>Counter Assailant</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
@@ -64,7 +64,8 @@ Get ready for an action-packed adventure in the depths of space. Check out the r
         <img src="" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/SmirkZat/Counter-Assailant" alt="2" style="width:100%;height:auto;">
+        <img src="![image](https://github.com/user-attachments/assets/9a95d1e4-f363-4c81-8600-985723ece1b3)
+" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
@@ -72,7 +73,7 @@ Get ready for an action-packed adventure in the depths of space. Check out the r
     </tr>
     <tr>
       <td align="center"><a href="https://www.shevia.id/Product/SheviaFire">Read More</a></td> <!--link 3-->
-      <td align="center"><a href="https://www.shevia.id/Product/SheviaAR">Read More</a></td> <!--link 4-->
+      <td align="center"><a href="https://github.com/SmirkZat/Counter-Assailant">Read More</a></td> <!--link 4-->
     </tr>
     <tr>
       <td align="center"><a href="https://youtu.be/U301oBPnyCg">Trailer</a></td> <!--link 3-->
