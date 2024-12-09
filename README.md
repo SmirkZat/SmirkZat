@@ -68,7 +68,7 @@ Get ready for an action-packed adventure in the depths of space. Check out the r
       </td>
     </tr>
     <tr>
-      <td valign="text-top">p</td><!--desc--></td> <!--desc-->
+      <td valign="text-top">p</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/SmirkZat/Flippy">Read More</a></td> <!--link 3-->
