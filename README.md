@@ -68,10 +68,10 @@ Get ready for an action-packed adventure in the depths of space. Check out the r
       </td>
     </tr>
     <tr>
-      <td valign="text-top">...</td> <!--desc-->
+      <td valign="text-top">...</td>Counter Assailant is a fast-paced, semi-tower defense game blending shoot 'em up, run & gun, and action-adventure mechanics. Players defend key points from waves of enemies, combining strategic positioning and intense combat. Set in a pixel-art world, the game features a story-driven experience with dynamic action and challenging enemy patterns. Quick reflexes and tactical thinking are key to survival in this action-packed, strategic adventure.<!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="">Read More</a></td> <!--link 3-->
+      <td align="center"><a href="https://github.com/SmirkZat/Flippy">Read More</a></td> <!--link 3-->
       <td align="center"><a href="https://github.com/SmirkZat/Counter-Assailant">Read More</a></td> <!--link 4-->
     </tr>
     <tr>
