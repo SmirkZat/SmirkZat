@@ -61,7 +61,7 @@ Get ready for an action-packed adventure in the depths of space. Check out the r
   <tbody>
     <tr>
       <td align="center">
-        <img src="" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/SmirkZat/Counter-Assailant" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="" alt="2" style="width:100%;height:auto;">
