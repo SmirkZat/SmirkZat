@@ -64,8 +64,7 @@ Get ready for an action-packed adventure in the depths of space. Check out the r
         <img src="" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="
-https://github.com/user-attachments/assets/d5ef4332-cad4-405e-99ef-4cef909b05a8" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/94e6a995-72e0-47e0-8094-5196c99e8dcb.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
