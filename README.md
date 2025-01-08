@@ -64,7 +64,7 @@ Get ready for an action-packed adventure in the depths of space. Check out the r
         <img src="" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/b1f59b30-a262-4348-9d9c-e825ef153600" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/94e6a995-72e0-47e0-8094-5196c99e8dcb.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
@@ -84,4 +84,3 @@ Flippy Bird is a fast-paced, addictive arcade game where players control a bird 
     </tr>
   </tbody>
 </table>
-
